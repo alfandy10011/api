@@ -3,11 +3,15 @@ authentication: {}
 body: {}
 created: 1589472561006
 description: ""
-headers: []
+headers:
+  - description: ""
+    id: pair_6e777b9567bb4793a638c565be09b34c
+    name: Accept
+    value: application/json
 isPrivate: false
 metaSortKey: -1589472561006
-method: POST
-modified: 1589472585637
+method: GET
+modified: 1589474435599
 name: testing
 parameters: []
 parentId: fld_fed6def3505c4f61a89071edad274f51
