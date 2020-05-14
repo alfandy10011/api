@@ -1,0 +1,18 @@
+_id: env_0a9adcf06b6f4551a005712d4eea8ac7
+color: null
+created: 1589471856474
+data:
+  lapak_client_id: "1"
+  lapak_client_secrert: 645rtgahdfgahdbfafdbasd
+  lapak_url: localhost
+dataPropertyOrder:
+  "&":
+    - lapak_url
+    - lapak_client_id
+    - lapak_client_secrert
+isPrivate: false
+metaSortKey: 1589471856474
+modified: 1589472164084
+name: Dev
+parentId: env_7c1a026a9727962be6e019b71ea1bf1ab441f52c
+type: Environment
